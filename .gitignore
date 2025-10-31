@@ -1,0 +1,98 @@
+# ==========================================
+# AI Call Center - Safe Documentation
+# ==========================================
+# This .gitignore ensures NO sensitive files
+# are accidentally pushed to public GitHub
+
+# ==========================================
+# SENSITIVE FILES - NEVER COMMIT
+# ==========================================
+
+# Personal instruction files
+*.txt
+00-READ-FIRST.txt
+PUBLISH-TO-GITHUB.txt
+
+# Source code (private repository only)
+*.py
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment & Configuration
+.env
+.env.*
+*.env
+config.ini
+config.json
+config.yaml
+settings.py
+secrets.json
+
+# Credentials & Keys
+*credentials*
+*secret*
+*password*
+*token*
+*.pem
+*.key
+*.crt
+*.cer
+id_rsa*
+*.ppk
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# Logs & Runtime
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# IDE & Editor
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Private repositories
+private/
+confidential/
+internal/
+
+# University-specific
+*cukurova*private*
+*cu-private*
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# ==========================================
+# SAFE TO COMMIT (Documentation Only)
+# ==========================================
+# README.md
+# ARCHITECTURE.md
+# TECHNICAL_DETAILS.md
+# INTERVIEW_GUIDE.md
+# LICENSE (if added)
+# .gitignore (this file)
