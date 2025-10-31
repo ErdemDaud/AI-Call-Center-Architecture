@@ -395,7 +395,7 @@ If the project were to be extended:
 
 **Erdem Daud**
 - Email: erdemindir@gmail.com
-- LinkedIn: [linkedin.com/in/erdem-daud-223a94345](https://www.linkedin.com/in/erdem-daud-223a94345)
+- LinkedIn: [linkedin.com/in/erdem-daud](www.linkedin.com/in/erdem-daud)
 - GitHub: [github.com/ErdemDaud](https://github.com/ErdemDaud)
 
 Available for similar projects or full-time opportunities in AI Engineering, Backend Development, or System Architecture.
