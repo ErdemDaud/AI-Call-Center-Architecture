@@ -117,7 +117,7 @@ This project demonstrates:
 AI Engineer | Backend Developer
 
 - 📧 erdemindir@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/erdem-daud-223a94345)
+- 💼 [LinkedIn](www.linkedin.com/in/erdem-daud)
 - 🐙 [GitHub](https://github.com/ErdemDaud)
 
 ---
